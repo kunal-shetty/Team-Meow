@@ -88,4 +88,4 @@ This project was developed during the **Techतत्व Hackathon**, where:
 
 Feel free to connect on LinkedIn or explore the repository for further details.
 
-Just tell me — this project already looks solid for a portfolio.
+
